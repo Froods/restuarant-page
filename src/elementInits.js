@@ -1,13 +1,5 @@
 // Inititalize content for homepage
 
-/* 
-div id="welcome-box"
-h1 class="header-text"
-p class="welcome-text
-p class="reservation"
-button class="reservation-btn" 
-*/
-
 function initHomepageContent(contentSection) {
 
     // Create Elements
