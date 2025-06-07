@@ -1,5 +1,7 @@
 import "./styles.css";
-import { initHomepageContent } from "./elementInits";
+import { initHomepageContent, initMenuContent } from "./elementInits";
 
 const contentSection = document.querySelector("#content");
-initHomepageContent(contentSection);
+
+
+initMenuContent(contentSection);
